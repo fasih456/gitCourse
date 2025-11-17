@@ -1,2 +1,1 @@
-# gitCourse
-This is Read me file
+Hello World! 
